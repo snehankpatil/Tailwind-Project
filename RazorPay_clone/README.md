@@ -8,7 +8,7 @@ A responsive clone of the Razorpay payment Official Website UI, built using the 
 
 - **Tailwind CSS:** Leveraging the power of Tailwind CSS for rapid and efficient styling.
 
-- **Razorpay UI Clone:** Mimicking the look and feel of the Razorpay payment gateway.
+- **Razorpay UI Clone:** Mimicking the look and feel of the Razorpay payment official website.
 
 
 To run the project need to install nodejs and import the whole project
